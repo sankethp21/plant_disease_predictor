@@ -1,0 +1,6 @@
+0 Corn Gray Leaf Spot
+1 Potato Early Blight
+2 Strawberry Leaf Scorch
+3 Tomato Leaf Mold
+4 Peach Bacterial Spot
+5 Leaf not detected
